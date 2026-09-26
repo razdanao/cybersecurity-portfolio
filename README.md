@@ -27,5 +27,5 @@ This repository is where I document my hands-on cybersecurity learning: labs, ho
 | _Coming soon_ | | |
 
 ## 🔗 Connect
-- LinkedIn: linkedin.com/razdanao
+- LinkedIn: www.linkedin.com/razdanao
 - Email: russelvilaca@gmail.com
