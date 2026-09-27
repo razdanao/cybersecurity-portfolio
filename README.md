@@ -17,6 +17,7 @@ This repository is where I document my hands-on cybersecurity learning: labs, ho
 `Wireshark` `Nmap` `Burp Suite` `OpenVAS` `PowerShell` `Python` `SQL` `Active Directory`
 
 ## 📜 Certifications
+- Cybersecurity Specialist Co-op Diploma (GPA: 3.87) — Toronto School of Management
 - ISC2 — Certified in Cybersecurity (CC), Self-Paced Training
 - IBM — Cybersecurity Fundamentals
 - Cisco — Ethical Hacker, Cyber Threat Management, Network Defense, Endpoint Security, Cybersecurity Essentials
