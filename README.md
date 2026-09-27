@@ -25,7 +25,10 @@ This repository is where I document my hands-on cybersecurity learning: labs, ho
 ## 📂 Write-ups
 | Project | Description | Date |
 |---|---|---|
-| _Coming soon_ | | |
+| _Home Network Security Hardening_ | _https://github.com/razdanao/cybersecurity-portfolio/blob/main/writeups/home-network-hardening.md#home-network-security-hardening--huawei-eg8041v5_ | _Sep 27, 2026_ |
+| _Offensive Security Intro — TryHackMe_ | _https://github.com/razdanao/cybersecurity-portfolio/blob/main/writeups/thm-intro-to-cyber-security.md_ | _Sep 28, 2026_ |
+
+
 
 ## 🔗 Connect
 - LinkedIn: www.linkedin.com/razdanao
