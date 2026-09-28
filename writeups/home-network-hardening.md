@@ -28,9 +28,9 @@ Checked both the 2.4GHz and 5GHz **Basic Network Settings** pages. Both bands we
 Considered upgrading to WPA3, but confirmed it wasn't exposed as an option in this firmware. WPA2-AES remains a secure, industry-accepted standard for home use, so no further action was needed here.
 
 ### 3. Renamed the SSID
-The default SSID included part of my home address, which is an information-exposure risk — anyone scanning nearby Wi-Fi networks could infer a physical location. Renamed the SSID to a neutral name unrelated to my identity, address, or router hardware/brand.
+The default SSID included part of my home address, which is an information-exposure risk — anyone scanning nearby Wi-Fi networks could infer a physical location. Blurred the SSID to a no-name unrelated to my identity, address, or router hardware/brand.
 
-*(SSID screenshots redacted/updated to reflect the renamed network — see note above)*
+*(SSID screenshots redacted/updated to reflect the Blurred network — see note above)*
 
 ### 4. Disabled WPS
 WPS (Wi-Fi Protected Setup) was enabled by default on both bands. WPS's push-button/PIN pairing method is a known weak point that can be brute-forced to recover the Wi-Fi password even with strong encryption elsewhere enabled. Disabled it on both 2.4GHz and 5GHz.
