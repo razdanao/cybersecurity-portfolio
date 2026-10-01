@@ -37,8 +37,11 @@ Used several built-in Windows command-line tools to inspect and test network con
 - **`ipconfig`** — displays current TCP/IP configuration and can refresh DHCP/DNS settings, useful as a first step in diagnosing connectivity issues.
 - **`driverquery`** — lists installed device drivers, relevant when troubleshooting hardware conflicts or verifying driver-level issues.
 - **`ping`** — tested connectivity to an external host (google.com), confirming round-trip response time and packet loss — a fast way to verify whether a connectivity problem is local or further upstream.
+
 <img width="481" height="204" alt="5" src="https://github.com/user-attachments/assets/8afe0d4e-4939-46fb-9209-e95e28743258" />
+
 - **`nslookup`** — queried DNS records directly, specifically MX (mail exchanger) records for a domain, which map a domain name to the mail servers responsible for handling its email. This also surfaced other record types worth knowing — like SOA records (authoritative zone information) and LOC records (geographic association) — reinforcing that DNS carries far more than just IP address lookups.
+
 <img width="715" height="372" alt="6" src="https://github.com/user-attachments/assets/370e10cb-e676-4bcb-9a30-293676bcebdb" />
 
 
@@ -46,10 +49,12 @@ Used several built-in Windows command-line tools to inspect and test network con
 
 ### Firewall configuration
 Accessed Windows Defender Firewall through both the GUI (Control Panel) and directly via command line (`control firewall.cpl`), confirming there's more than one path to the same administrative destination — a useful thing to know when a GUI is unavailable or when documenting repeatable steps for others.
+
 <img width="386" height="115" alt="7" src="https://github.com/user-attachments/assets/1cdeba99-0263-435a-846e-9a3150dcab86" />
 
 
 Reviewed the distinction between **inbound rules** (governing incoming traffic — blocking disallowed connections, malware, denial-of-service attempts) and **outbound rules** (governing traffic originating from inside the network going out). Walked through the actual steps to create a custom firewall rule via Windows Firewall with Advanced Security, rather than just reading about the concept abstractly.
+
 <img width="582" height="324" alt="8" src="https://github.com/user-attachments/assets/da089275-b2ea-46e7-8137-0cfa043feb8b" />
 
 
