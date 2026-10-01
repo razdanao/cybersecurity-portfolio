@@ -52,6 +52,9 @@ Accessed Windows Defender Firewall through both the GUI (Control Panel) and dire
 
 <img width="386" height="115" alt="7" src="https://github.com/user-attachments/assets/1cdeba99-0263-435a-846e-9a3150dcab86" />
 
+<img width="397" height="200" alt="11" src="https://github.com/user-attachments/assets/2453285c-f31f-414b-ae30-5e6e8167b92c" />
+
+
 
 Reviewed the distinction between **inbound rules** (governing incoming traffic — blocking disallowed connections, malware, denial-of-service attempts) and **outbound rules** (governing traffic originating from inside the network going out). Walked through the actual steps to create a custom firewall rule via Windows Firewall with Advanced Security, rather than just reading about the concept abstractly.
 
