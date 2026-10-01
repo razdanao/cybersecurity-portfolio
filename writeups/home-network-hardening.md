@@ -56,6 +56,8 @@ This is a different control than guest isolation — it governs *whether a devic
 Checked the **WAN Configuration** page — found empty, with no connections listed or editable (ISP-managed at the network level, not exposed to the customer account).
 
 Checked **Security → Device Access Control** — found only a single toggle governing whether devices on the **Wi-Fi (LAN) side** can access the router's web interface (enabled, as expected — that's how admin access works day-to-day). No separate WAN-side remote management toggle was present.
+<img width="1120" height="913" alt="7_device_access_control" src="https://github.com/user-attachments/assets/85e24549-65d9-432d-8b22-e221c0aaae4c" />
+
 
 **Finding: remote/WAN administrative access is not exposed as a customer-controlled setting on this unit.** Combined with the empty WAN Configuration table, this indicates the ISP retains sole remote-management capability over this device.
 
