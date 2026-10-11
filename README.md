@@ -27,6 +27,11 @@ This repository is where I document my hands-on cybersecurity learning: labs, ho
 |---|---|---|
 | _Home Network Security Hardening_ | _https://github.com/razdanao/cybersecurity-portfolio/blob/main/writeups/home-network-hardening.md#home-network-security-hardening--huawei-eg8041v5_ | _Sep 27, 2026_ |
 | _Offensive Security Intro — TryHackMe_ | _https://github.com/razdanao/cybersecurity-portfolio/blob/main/writeups/thm-intro-to-cyber-security.md_ | _Sep 28, 2026_ |
+| _Wireshark Packet Analysis Fundamentals_ | _https://github.com/razdanao/cybersecurity-portfolio/blob/9daef5926220a2ef8a932545c8f1f181ee957132/writeups/wireshark-packet-analysis-fundamentals.md_ |  _May 17, 2022_ |
+| _Windows System & Network Diagnostics_ | _https://github.com/razdanao/cybersecurity-portfolio/blob/6438bcde5a2501b7b13ca5382377d353e03c377f/writeups/windows-system-network-diagnostics.md_ | _May 10, 2022_ |
+
+
+
 
 
 
