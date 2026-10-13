@@ -1,5 +1,3 @@
-<!-- TODO before publishing: run the redesigned schema and join query at the bottom in MySQL Workbench, and add a screenshot of the result under "Redesigned schema". -->
-
 # MySQL Fundamentals: Querying a Database and Designing a Schema
 
 ## Platform
@@ -58,6 +56,9 @@ Going back over my original script, I found several problems, some of which woul
 6. **Prices as integers**, which can't store cents. `DECIMAL` is the right type for money.
 
 ### Redesigned schema
+<img width="1052" height="699" alt="Screenshot 2026-10-13 at 12 04 29 PM" src="https://github.com/user-attachments/assets/03779ecc-000d-445f-aa8e-70e89bd856f6" />
+
+
 ```sql
 CREATE DATABASE IF NOT EXISTS cookie_bakery;
 USE cookie_bakery;
