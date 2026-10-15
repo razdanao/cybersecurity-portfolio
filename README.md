@@ -1,40 +1,16 @@
-# cybersecurity-portfolio
-# Hi, I'm Russel Danao 👋
+# Cybersecurity Coursework Portfolio
 
-Virtual Assistant & Administrative Support Specialist, currently building toward a career in **Cybersecurity**.
+Hands-on labs, case studies and study notes from my cybersecurity program, organized by topic and by what each piece shows.
 
-## About Me
-I bring 5+ years of experience in administrative support, customer service, and IT operations for global teams. Alongside my professional work, I completed a **Cybersecurity Specialist Co-op Diploma** (Toronto School of Management), covering network security, vulnerability assessment, penetration testing, and GRC compliance — including a 240-hour hands-on placement at rCycle.
+## Module 1: Introduction to Cybersecurity
+Start with the [review guide](module-1-intro-to-cybersecurity/README.md) or the [skills matrix](module-1-intro-to-cybersecurity/skills.md).
 
-This repository is where I document my hands-on cybersecurity learning: labs, home-lab projects, and write-ups as I work toward a security-focused role.
+| Folder | What is in it |
+|---|---|
+| [`labs/`](module-1-intro-to-cybersecurity/labs/) | Windows admin tools, firewall rules, Wireshark packet analysis, Kali in VirtualBox |
+| [`case-studies/`](module-1-intro-to-cybersecurity/case-studies/) | Kevin Mitnick, Germany's IT Security Act 2.0, Philips Hue IoT security |
+| [`exercises/`](module-1-intro-to-cybersecurity/exercises/) | Cybersecurity in the movies |
+| [`notes/`](module-1-intro-to-cybersecurity/notes/) | Hardware and physical security study notes |
+| [`glossary.md`](module-1-intro-to-cybersecurity/glossary.md) | Key terms |
 
-## 🎯 Current Focus
-- Building practical, hands-on security skills through TryHackMe and home-lab projects
-- Strengthening fundamentals in network defense, vulnerability scanning, and threat analysis
-- Documenting each project publicly to track progress and share what I learn
-
-## 🛠️ Tools & Technologies
-`Wireshark` `Nmap` `Burp Suite` `OpenVAS` `PowerShell` `Python` `SQL` `Active Directory`
-
-## 📜 Certifications
-- Cybersecurity Specialist Co-op Diploma (GPA: 3.87) — Toronto School of Management
-- ISC2 — Certified in Cybersecurity (CC), Self-Paced Training
-- IBM — Cybersecurity Fundamentals
-- Cisco — Ethical Hacker, Cyber Threat Management, Network Defense, Endpoint Security, Cybersecurity Essentials
-
-## 📂 Write-ups
-| Project | Description | Date |
-|---|---|---|
-| _Home Network Security Hardening_ | _https://github.com/razdanao/cybersecurity-portfolio/blob/main/writeups/home-network-hardening.md#home-network-security-hardening--huawei-eg8041v5_ | _Sep 27, 2026_ |
-| _Offensive Security Intro — TryHackMe_ | _https://github.com/razdanao/cybersecurity-portfolio/blob/main/writeups/thm-intro-to-cyber-security.md_ | _Sep 28, 2026_ |
-| _Wireshark Packet Analysis Fundamentals_ | _https://github.com/razdanao/cybersecurity-portfolio/blob/9daef5926220a2ef8a932545c8f1f181ee957132/writeups/wireshark-packet-analysis-fundamentals.md_ |  _May 17, 2022_ |
-| _Windows System & Network Diagnostics_ | _https://github.com/razdanao/cybersecurity-portfolio/blob/6438bcde5a2501b7b13ca5382377d353e03c377f/writeups/windows-system-network-diagnostics.md_ | _May 10, 2022_ |
-
-
-
-
-
-
-## 🔗 Connect
-- LinkedIn: www.linkedin.com/razdanao
-- Email: russelvilaca@gmail.com
+> All screenshots have personal and network identifiers removed. Security tools were used only on my own equipment and network.
