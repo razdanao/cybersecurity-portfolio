@@ -11,7 +11,7 @@
 ## My starting point
 This is my first draft of the topology, before any configuration. The red serial link is down because the interfaces were not configured yet, and the addresses on this draft are placeholders. **The addressing plan below is the one to use.**
 
-![Draft topology](../screenshots/packet-tracer/draft-static-routing-topology.png)
+![Uploading draft-static-routing-topology.png…]()
 
 ## Quick checklist
 - [ ] Place and cable the devices
