@@ -14,6 +14,6 @@ Start with the [review guide](intro-to-cybersecurity/README.md) or the [skills m
 | [`glossary.md`](intro-to-cybersecurity/glossary.md) | Key terms |
 
 ## Data Communications and Networking
-Study roadmap, notes and lab guides: [`data-communications-and-networking/`](data-communications-and-networking/README.md). Windows Server lab series (firewall, DHCP, DNS, IIS, FTP, Remote Desktop): start at the [lab environment setup](data-communications-and-networking/labs/00-lab-environment-setup.md).
+Study roadmap, notes and lab guides: [`computer-networks/`](computer-networks/README.md). Windows Server lab series (firewall, DHCP, DNS, IIS, FTP, Remote Desktop): start at the [lab environment setup](computer-networks/labs/00-lab-environment-setup.md).
 
 > All screenshots have personal and network identifiers removed. Security tools were used only on my own equipment and network.
