@@ -1,4 +1,4 @@
-# Lab Environment Setup (Start Here)
+# Lab Environment Setup (Start Here) 
 
 A two-VM Windows Server lab on one PC, used by every guide in this folder. Build it once, then follow the guides in any order, or in the recommended order below.
 
