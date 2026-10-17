@@ -11,7 +11,7 @@
 ## My starting point
 This is my first draft of the topology before configuration. The red serial links are down because the interfaces were not configured yet, and the addresses on this draft are placeholders. **The addressing plan below is the one to use.**
 
-![Draft topology](../screenshots/packet-tracer/draft-ospf-topology.png)
+<img width="657" height="603" alt="draft-ospf-topology" src="https://github.com/user-attachments/assets/b2ee27fd-f254-436f-b090-c3df8ef5237f" />
 
 ## Quick checklist
 - [ ] Build and cable the topology
