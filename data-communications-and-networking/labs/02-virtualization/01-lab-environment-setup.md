@@ -34,7 +34,7 @@ Change these to suit your own network plan, and keep them consistent across the 
 
 ## Recommended order
 1. [Open a port in Windows Server Firewall](windows-firewall-open-a-port.md)
-2. [DHCP server](dhcp-server-windows-server-2019.md)
+2. [DHCP server](01-dhcp-server-windows-server-2019.md)
 3. [DNS server](dns-server-windows-server-2019.md)
 4. [IIS web server](iis-web-server-windows-server-2019.md)
 5. [FTP server](ftp-server-windows-server-2019.md)
