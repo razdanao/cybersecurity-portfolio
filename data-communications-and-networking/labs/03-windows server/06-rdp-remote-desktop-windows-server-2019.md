@@ -4,7 +4,7 @@
 
 **Who this is for:** learners and beginners building a small Windows network lab. You need basic comfort with Server Manager and PowerShell. No prior RDP experience is needed.
 
-**Time:** about 20 minutes.
+**Time:** about 20 minutes
 
 > **Lab-only warning:** RDP is one of the most attacked services on the internet. Do this on an isolated lab network. Never expose port 3389 directly to the internet.
 
