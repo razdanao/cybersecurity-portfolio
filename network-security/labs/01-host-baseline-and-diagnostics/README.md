@@ -61,6 +61,10 @@ Single VM; no inter-host traffic is analyzed in this lab. IP addressing is there
 ![Screenshot Redacted](https://raw.githubusercontent.com/razdanao/cybersecurity-portfolio/main/network-security/screenshots/06-task-manager-online-idle-baseline-redacted.png)
 *Figure 6: Online idle baseline, uptime 10:36 (Step 8). Taskbar widget redacted.*
 
+![Screenshot Redacted](https://raw.githubusercontent.com/razdanao/cybersecurity-portfolio/main/network-security/screenshots/07-snapshot-manager-redacted.png)
+*Figure 7: VMware Snapshot Manager showing the clean baseline snapshot (Step 9). Taskbar weather widget redacted.*
+
+
 ## 4. Observations & Analysis
 
 | Resource | Offline idle (Fig. 4) | Online, just connected (Fig. 5) | Online idle (Fig. 6) |
