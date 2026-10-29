@@ -1,5 +1,7 @@
 # Lab 01: Windows 11 VM Baseline & Diagnostics
 
+Priority: ⭐ Core · Status: 🟢 Complete
+
 > Part of my cybersecurity portfolio. All screenshots are in [`screenshots/`](https://github.com/razdanao/cybersecurity-portfolio/tree/main/network-security/labs/lab-01-host-baseline/screenshots) and embedded below.
 
 **Summary:** I built a clean, locally provisioned Windows 11 Pro VM in VMware Workstation and resolved three blockers: AMD-V disabled in the UEFI, the Windows 11 virtual TPM requirement, and forced Microsoft-account sign-in. Offline and online idle baselines show near-zero CPU, with idle memory rising from 2.8 GB to 3.6 GB once VMware Tools and network connectivity were added. All evidence was redacted before publication, and this baseline is the reference point for later labs.
