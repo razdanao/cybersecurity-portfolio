@@ -36,7 +36,7 @@ Topology diagram: *TODO, see [`TODO.md`](TODO.md)*
 
 | # | Lab | Core Concepts | Priority | Status |
 |---|---|---|---|---|
-| 01 | [Host Baseline & Diagnostics](labs/01-host-baseline-and-diagnostics/) | System inventory, Task Manager, baselining, attack-surface awareness | ⭐ Core | 🟡 Draft |
+| 01 | [Host Baseline & Diagnostics](labs/01-host-baseline-and-diagnostics/) | System inventory, Task Manager, baselining, attack-surface awareness | ⭐ Core | 🟢 Complete |
 | 02 | [CLI Network Diagnostics](labs/02-cli-network-diagnostics/) | `ipconfig`, `ping`/ICMP/TTL, `nslookup`, MX/NS records | ⭐ Core | 🟡 Draft |
 | 03 | [Host Firewall Rule Engineering](labs/03-host-firewall-rule-engineering/) | Inbound/outbound filtering, default-deny, rule creation | ⭐ Core | 🟡 Draft |
 | 04 | [Packet Capture & Encapsulation](labs/04-packet-capture-and-encapsulation/) | Wireshark, display filters, cleartext HTTP vs TLS, TCP handshake | ⭐ Core | 🟡 Draft (needs real captures) |
