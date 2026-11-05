@@ -11,6 +11,8 @@ Systems, database, wireless, and security study work. The lab pathways link to d
 
 ## Study notes
 
+- [Python for Cybersecurity](notes/python-for-cybersecurity.md) - plain-language HTML, Python, web data, and introductory socket notes.
+
 - [Authentication Controls](notes/authentication-controls.md)
 - [Cybersecurity Publications](notes/cybersecurity-publications.md)
 - [Database Security](notes/database-security.md)
