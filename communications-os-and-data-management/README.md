@@ -1,38 +1,28 @@
-# Communications, Operating Systems, and Data Management
+# Assignment Drafts
 
-Systems, database, wireless, and security study work. The lab pathways link to detailed runbooks and label incomplete exercises explicitly.
+These are work plans, not completed assignments. Follow them in numeric order. Every incomplete assignment uses a filename beginning with `Draft -` and includes its own status, source prompt, sequential steps, and completion checklist.
 
-## Lab pathways
+## HTML
 
-- **DRAFT:** [MySQL Data Management](labs/mysql-data-management/README.md) — Workbench/Sakila, database users and recovery, and IT asset tracker design.
-- **DRAFT:** [Wireless Assessment](labs/wireless-assessment/README.md) — initial evidence exists; measurements remain.
-- **DRAFT:** [Endpoint Logging and Detection](labs/endpoint-logging-and-detection/README.md) — Sysmon + Wazuh setup is not yet run or validated.
-- **DRAFT:** [Linux Command-Line Basics (Kali)](labs/linux-command-line-basics-kali.md) — results and evidence remain to be added.
+1. [Draft 01 - HTML Tag Research](HTML/Draft%20-%2001%20HTML%20Tag%20Research.md)
+2. [Draft 02 - HTML Demonstration Page](HTML/Draft%20-%2002%20HTML%20Demonstration%20Page.md)
+8. [Draft 08 - Personal Resume Webpage](HTML/Draft%20-%2008%20Personal%20Resume%20Webpage.md)
 
-## Study notes
+## Python
 
-- [Python for Cybersecurity](notes/python-for-cybersecurity.md) - plain-language HTML, Python, web data, and introductory socket notes.
+3. [Draft 03 - Variables and Arithmetic](Python/Draft%20-%2003%20Variables%20and%20Arithmetic.md)
+4. [Draft 04 - Function with User Input](Python/Draft%20-%2004%20Function%20with%20User%20Input.md)
+5. [Draft 05 - Grading Program](Python/Draft%20-%2005%20Grading%20Program.md)
+6. [Draft 06 - Python Library Research](Python/Draft%20-%2006%20Python%20Library%20Research.md)
+9. [Draft 09 - Quote Scraper](Python/Draft%20-%2009%20Quote%20Scraper.md)
 
-- [Authentication Controls](notes/authentication-controls.md)
-- [Cybersecurity Publications](notes/cybersecurity-publications.md)
-- [Database Security](notes/database-security.md)
-- [Databases and SQL Fundamentals](notes/databases-and-sql-fundamentals.md)
-- [Incident Response and the Cyber Kill Chain](notes/incident-response-and-cyber-kill-chain.md)
-- [Network Scanners and Protocol Analyzers](notes/network-scanners-and-protocol-analyzers.md)
-- [Operating Systems Comparison](notes/operating-systems-comparison.md)
-- [Secure Mobile Solutions](notes/secure-mobile-solutions.md)
-- [Wi-Fi Standards, Attacks, and Defenses](notes/wi-fi-standards-and-attacks.md)
-- [Security+ Certification Path](notes/security-plus-certification-path.md)
+## Networking
 
-## Case studies
+7. [Draft 07 - Five Network Ports](Networking/Draft%20-%2007%20Five%20Network%20Ports.md)
+10. [Draft 10 - Socket Banner Grabber](Networking/Draft%20-%2010%20Socket%20Banner%20Grabber.md)
 
-- [European Supermarket Refrigeration Incidents (2026)](case-studies/europe-supermarket-refrigeration-incidents-2026.md)
-- [St. Luke’s Medical Center Mobile-App Incident (2026)](case-studies/st-lukes-philippines-mobile-platform-incident-2026.md)
+## Status notes
 
-- [Visitor Registration System and MySQL](case-studies/baguio-visita-mysql-case-study.md)
-- [BioStar 2 Biometric Database Exposure](case-studies/biostar-2-biometric-database-leak.md)
-- [MSHTML and Graphite Espionage Campaign](case-studies/mshtml-graphite-espionage-campaign.md)
-
-Use synthetic/sample data in database labs. Redact identifiers from evidence and distinguish sourced facts from analysis in case studies.
-
-
+- Drafts 05, 06, 07, and 09 have source examples in the supplied PDFs. They remain drafts because examples need checking, editing, and personal verification.
+- Other drafts have prompts but no matching completed artifact in the reviewed materials.
+- Assignment names are based on the prompts that were visible. Confirm class numbering in the course portal where materials conflict.
