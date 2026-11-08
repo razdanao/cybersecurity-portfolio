@@ -5,14 +5,19 @@ A curated set of networking and security study notes, cited case studies, and la
 ## Portfolio areas
 
 - [Computer Networks](computer-networks/README.md): subnetting, routing, and Wireshark filter references.
-- [Communications, Operating Systems, and Data Management](communications-os-and-data-management/README.md): database, authentication, wireless, and incident-response notes with three case studies, plus a Linux/Ubuntu CLI reference.
+- [Communications, Operating Systems, and Data Management](communications-os-and-data-management/README.md): database, authentication, wireless, and incident-response notes with four case studies (including the 2018 Marriott/Starwood breach), plus a Linux/Ubuntu CLI reference and a Canadian/international cyber law reference (CASL, CAFC, the Budapest Convention).
 - [Network Security](network-security/README.md): a Windows name-resolution and discovery protocol-hardening retest with redacted screenshots, plus an LLMNR/Responder attack lab and a BitLocker lab (both drafts, evidence pending).
 - [Cryptography](cryptography/README.md): a symmetric/asymmetric crypto and hashing study guide, plus two OpenSSL labs (drafts, evidence pending).
-- [Windows Server AD DS](windows-server-adds/README.md): AD DS, OU/group permissions, DHCP, and RRAS labs across two assignments. Draft — evidence pending.
+- [Windows Server AD DS](windows-server-adds/README.md): AD DS, OU/group permissions, DHCP, and RRAS across two labs. Draft — evidence pending.
 - [Cloud Computing](cloud-computing/README.md): IaaS/PaaS/SaaS/XaaS and public/private/hybrid cloud fundamentals, with an AWS/Azure/GCP comparison.
 - [Programming Fundamentals](programming-fundamentals/README.md): core Python and HTML notes, including common beginner syntax pitfalls.
+- [Penetration Testing](penetration-testing/README.md): Snort, Pentbox honeypot, and BloodHound AD-mapping labs (drafts, evidence pending); detection/mitigation notes for several well-known attacks (exploits, DHCP starvation/rogue DHCP, AD credential dumping); theory notes on malware types, LLMNR, BloodHound, and Metasploit; and short tool notes on Ettercap, Wireshark, and John the Ripper. Attack-execution steps are intentionally excluded throughout — see the note in that folder.
 
 The folder structure contains only the selected materials included in this publication copy. Source notes are written in original wording and cite public references. No raw packet captures, school handouts, or copied slides are included.
+
+## Certifications
+
+- Cisco Networking Academy — Cybersecurity Essentials
 
 ## Use and safety
 
