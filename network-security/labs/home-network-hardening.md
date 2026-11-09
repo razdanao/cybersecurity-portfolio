@@ -30,13 +30,13 @@ I reviewed my home router's configuration against a baseline hardening checklist
 ### 1. Default admin password: remediated
 Both the login page and the Account Management screen flagged the password as factory default. Anyone on the LAN (or anyone who gets on the Wi-Fi) could have taken full control of the router. I changed it to a new password that meets the device policy (6+ characters, at least two character classes, not the username or its reverse).
 
-![Account Management warning](images/01-account-management.png)
+![Account Management warning](/network-security/images/01-account-management.png)
 
 ### 2. Wi-Fi encryption: verified
 Both the 2.4 GHz and 5 GHz networks use **WPA/WPA2-PSK with AES**. No WEP or plain WPA/TKIP-only fallback. WPA3 is not offered in this firmware, so WPA2-AES stays the baseline. The decision is driven by what the device supports and what my clients need, not by chasing the newest standard.
 
-![2.4 GHz encryption](images/02-24g-encryption.png)
-![5 GHz encryption](images/03-5g-encryption.png)
+![2.4 GHz encryption](/network-security/images/02-24g-encryption.png)
+![5 GHz encryption](/network-security/images/03-5g-encryption.png)
 
 ### 3. SSID exposed location information: remediated
 The default SSID included part of my home address. SSIDs are broadcast, so anyone scanning nearby could infer where the network is. I renamed both bands to a neutral name unrelated to my identity, address, or router brand. (SSIDs are redacted in the screenshots.)
@@ -46,7 +46,7 @@ WPS PIN/push-button pairing is a known weakness: the PIN method can be brute-for
 
 | Before (5 GHz) | After (2.4 GHz) | After (5 GHz) |
 |---|---|---|
-| ![WPS enabled](images/03-5g-encryption.png) | ![WPS disabled 2.4](images/05-24g-wps-after.png) | ![WPS disabled 5](images/06-5g-wps-after.png) |
+| ![WPS enabled](/network-security/images/03-5g-encryption.png) | ![WPS disabled 2.4](/network-security/images/05-24g-wps-after.png) | ![WPS disabled 5](/network-security/images/06-5g-wps-after.png) |
 
 ### 5. Guest network / client isolation: not available
 I searched WLAN, Security, and LAN menus (Basic/Advanced settings, Automatic Wi-Fi Sharing, IPv4/MAC/Wi-Fi MAC filtering, Parental Control, Precise Device Access, Device Access Control, IPv6 filtering). The router does not expose guest networking or client isolation. A second SSID can be created, but without isolation it would have the same access as the primary network, so it would add no security value.
@@ -59,7 +59,7 @@ MAC filtering is disabled (blacklist mode, no rules). It controls **whether a de
 ### 7. Remote / WAN administration: ISP-controlled
 The WAN Configuration page is empty and ISP-managed. Device Access Control exposes only one toggle (whether Wi-Fi-side devices can reach the web interface), and the page itself notes it is deprecated in favor of Precise Device Access Control. There is no customer-facing WAN management setting, which indicates the ISP holds sole remote-management capability.
 
-![Device Access Control](images/07-device-access-control.png)
+![Device Access Control](/network-security/images/07-device-access-control.png)
 
 ### 8. Firmware updates: ISP-controlled
 I reviewed the full Maintenance Diagnostics menu (Configuration File Management, Maintenance, User Log, Firewall Log, Indicator Status, Reboot) and System Management. There is no firmware upgrade option. This is consistent with ISP-managed provisioning (typically TR-069), so patch cadence depends on the provider.
